@@ -1,0 +1,43 @@
+const videos = [
+  {
+    title: "Sinal 1",
+    url: "https://canaisnatv.pro/record/play3.php?v=0"
+  },
+  {
+    title: "Sinal 1 ALT",
+    url: "https://canaisnatv.pro/record/play3.php?v=0"
+  },
+  {
+    title: "Sinal 2",
+    url: "https://canaisnatv.pro/record/play3.php?v=1"
+  },
+  {
+    title: "Sinal 2 ALT",
+    url: "https://canaisnatv.pro/record/play3.php?v=1"
+  },
+  {
+    title: "Sinal 3",
+    url: "https://canaisnatv.pro/record/play3.php?v=2"
+  },
+    {
+    title: "Sinal 3 ALT",
+    url: "https://canaisnatv.pro/record/play3.php?v=2"
+  },
+ {
+    title: "Sinal 4",
+    url: "https://canaisnatv.pro/record/play3.php?v=3"
+  },
+   {
+    title: "Sinal 4 ALT",
+    url: "https://canaisnatv.pro/record/play3.php?v=3"
+  },
+
+   {
+    title: "Record",
+    url: "https://canaisnatv.pro/record/play3.php?v=4"
+  },
+  {
+    title: "Record ALT",
+    url: "https://canaisnatv.pro/record/play3.php?v=4"
+  }
+];
