@@ -1,24 +1,25 @@
 const videos = [
+   {
+        title: "Acompanhe o Centro de Treinamento",
+        url: "https://cdnapi-hazel.vercel.app/api/gbcdn.php?id=12778442"
+    },
+  {
+        title: "Acompanhe o Centro de Treinamento 2",
+        url: "https://cdnapi-hazel.vercel.app/api/gbcdn.php?id=12778424"
+    },
+
     {
         title: "Lounge",
-        url: "https://reidoscanais.life/embed/?id=estreladacasa"
+        url: "https://cdnapi-hazel.vercel.app/api/gbcdn.php?id=12778445"
     },
-{
+ {
         title: "Lounge ALT",
-        url: "https://embed-2.icu/embed/estreladacasa4"
+        url: "https://reidoscanais.life/embed/?id=estreladacasa"
     },
 
     {
         title: "Dormitorio",
         url: "https://reidoscanais.life/embed/?id=estreladacasa2"
-    },
-{
-        title: "Dormitorio ALT",
-        url: "https://embed-2.icu/embed/estreladacasa5"
-    },
- {
-        title: "Corredor Camarin",
-        url: "https://embed-2.icu/embed/estreladacasa2"
     },
     {
         title: "Refeitorio",
@@ -32,11 +33,7 @@ const videos = [
         title: "Deck/Área de Treino",
         url: "https://reidoscanais.life/embed/?id=estreladacasa6"
     },
-    {
-        title: "Moisaco Estrela da Casa",
-        url: "https://embed-2.icu/embed/estreladacasa6"
-    },
-
+   
     {
         title: "Globo SP",
         url: "https://reidoscanais.life/embed/?id=globosp-globosaopaulo"
